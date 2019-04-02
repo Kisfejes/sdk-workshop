@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "phone 1",
+    "description": "",
+    "owner": "user1",
+    "category": "phone"
+  },
+  {
+    "id": "2",
+    "name": "phone 2",
+    "description": "broken screen",
+    "owner": "user2",
+    "category": "phone"
+  },
+  {
+    "id": "3",
+    "name": "hdmi-dvi cable",
+    "description": "",
+    "owner": null,
+    "category": "cable"
+  },
+  {
+    "id": "4",
+    "name": "LG 22 monitor",
+    "description": "some pixel error",
+    "owner": "user1",
+    "category": "monitor"
+  }
+]
